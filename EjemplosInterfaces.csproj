@@ -36,6 +36,9 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IEncender.cs" />
+    <Compile Include="Refrigerador.cs" />
+    <Compile Include="Estufa.cs" />
     <Compile Include="LineaBlanca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
